@@ -1,4 +1,4 @@
-const int ledPin = 4; //ireo broche ilaina
+const int ledPin = 4; //numero de al broche uitlisée
 void setup () {
   pinMode(ledPin, OUTPUT);
 }
